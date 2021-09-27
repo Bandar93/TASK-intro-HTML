@@ -26,7 +26,7 @@ You are going to create a profile website from scratch using HTML only.
 
   ```html
   <ul>
-    <li>Hobby</li>
+    <li><strong>Hobby</strong></li>
     <li>Hobby</li>
     <li>Hobby</li>
   </ul>
@@ -35,6 +35,16 @@ You are going to create a profile website from scratch using HTML only.
 - If you click on any hobby, it should take you to an image that represents it
 - Make your first hobby <strong>bold</strong> using the tag `<strong>`
 - End the sections using the `<hr/>`
+
+<!--Section 2 -->
+<div background-color:azure;>
+<h2> <strong> My Hobbies </strong> </h2> 
+<ol>
+<li>Coding</li>
+<li>Cooking</li>
+<li>runing</li>
+</ol>
+ </div>
 
 ### Section 3:
 
